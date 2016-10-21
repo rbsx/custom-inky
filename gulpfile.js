@@ -1,5 +1,5 @@
 var gulp = require('gulp');
-var inky = require('inky');	
+var inky = require('inkypad');	
 
 gulp.task('default', function(){
 	gulp.src('./*.html')
