@@ -1,5 +1,5 @@
 node_modules/gulp
-node_modules/.bin
+node_modules/.bin	
 build
 .DS_Store
 .idea
